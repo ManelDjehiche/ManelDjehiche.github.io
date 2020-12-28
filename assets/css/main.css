@@ -290,6 +290,7 @@ a:hover
 
 .content-area .content-area-inner section
 {
+	text-align: justify;
     max-width: 520px;
     margin: 0 auto 18vh auto;
 }
